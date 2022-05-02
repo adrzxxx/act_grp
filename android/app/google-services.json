@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999374116471",
+    "project_id": "odds-social-media",
+    "storage_bucket": "odds-social-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999374116471:android:c132ca030ba6967d779872",
+        "android_client_info": {
+          "package_name": "com.example.odds_social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999374116471-2ndrhakr77bvffltrarnjm2575ieu6gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSHdPU3WJyh4K54dCz2_vbEmDTNDUPTEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999374116471-2ndrhakr77bvffltrarnjm2575ieu6gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
